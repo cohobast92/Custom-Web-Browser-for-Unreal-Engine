@@ -315,3 +315,6 @@
 
 ## 2026-01-13
 - Implement request ID propagation for better tracing across services
+
+## 2026-01-13
+- Remove the unused parameter that was left from an old refactor

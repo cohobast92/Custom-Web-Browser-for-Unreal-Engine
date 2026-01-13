@@ -212,3 +212,5 @@
 # Implement retry logic for the API client when the remote returns 5xx
 
 # Refactor config loading into a separate module for better testability
+
+# Simplify the dependency injection so it's easier to mock in tests
