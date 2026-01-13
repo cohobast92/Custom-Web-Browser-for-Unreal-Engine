@@ -236,3 +236,5 @@
 # Bump version to 1.2.0 and add changelog entry for the new features
 
 # Clean up duplicate logic between the sync and async code paths
+
+# Update the license file and add the new third-party notices
