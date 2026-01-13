@@ -312,3 +312,6 @@
 
 ## 2026-03-12
 - Update the API docs with the new query parameters and examples
+
+## 2026-01-13
+- Implement request ID propagation for better tracing across services
