@@ -248,3 +248,5 @@
 # Add a unit test for the edge case when the list is empty
 
 # Implement basic rate limiting to avoid overwhelming the downstream service
+
+# Adjust timeout and retry settings based on production observations

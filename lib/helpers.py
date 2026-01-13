@@ -212,3 +212,5 @@
 # Refactor the parser to use a proper state machine instead of regex
 
 # Bump dependency to get the security fix for the reported CVE
+
+# Refactor the client to use async context manager for the session
