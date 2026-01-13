@@ -312,3 +312,5 @@ window.ue.uewebbrowser.sendmessage("action?key=value&anotherKey=anotherValue");
 - Handle timeout gracefully and return a clear error to the caller
 
 - Support passing secrets via a separate file for security
+
+- Improve logging so we can trace requests through the pipeline in production
