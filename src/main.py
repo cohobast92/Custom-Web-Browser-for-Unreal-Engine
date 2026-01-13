@@ -212,3 +212,5 @@
 # Correct the docstring to match the actual behavior of the function
 
 # Adjust the threshold so we only log when it's actually an issue
+
+# Update the contributing guide with the new review process
