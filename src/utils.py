@@ -198,3 +198,5 @@
 # Bump the version and tag the release in the repo
 
 # Refactor the data layer to separate read and write paths
+
+# Add a small delay between retries to avoid thundering herd

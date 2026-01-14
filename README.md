@@ -292,3 +292,5 @@ window.ue.uewebbrowser.sendmessage("action?key=value&anotherKey=anotherValue");
 - Add a note in the README about the breaking change in 2.0
 
 - Refactor utils to use a single source of truth for default values
+
+- Remove the deprecated wrapper and use the library API directly
