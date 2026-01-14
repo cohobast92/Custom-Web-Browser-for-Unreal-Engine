@@ -178,3 +178,5 @@
 # Simplify the validation flow by reusing the same schema
 
 # Update the contributing guide with the new review process
+
+# Correct the logic that determined whether to use cache or not

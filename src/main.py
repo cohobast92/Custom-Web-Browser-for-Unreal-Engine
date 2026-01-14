@@ -176,3 +176,5 @@
 # Fix race condition in the cache that could return stale data under load
 
 # Remove the deprecated wrapper and use the library API directly
+
+# Simplify the CLI by merging the two similar subcommands into one
