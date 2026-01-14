@@ -1,0 +1,166 @@
+# config
+
+
+# Clean up the test fixtures and move shared data to a single file
+
+# Add a comment explaining why we disable the linter on this line
+
+# Add integration test that covers the full flow from request to response
+
+# Handle the partial write case and retry the remaining bytes
+
+# Add validation for the config schema before applying settings
+
+# Remove the deprecated wrapper and use the library API directly
+
+# Correct the timestamp format to use ISO 8601 for consistency
+
+# Simplify the config merge logic so overrides are predictable
+
+# Implement proper cleanup of resources when the process receives SIGTERM
+
+# Update documentation to reflect the new API and usage examples
+
+# Remove the experimental feature that didn't make it into the release
+
+# Clean up leftover code from the previous implementation
+
+# Clean up the TODO comments that were already addressed
+
+# Handle the duplicate key case by merging the values instead of failing
+
+# Refactor the main entry point to make it easier to test
+
+# Handle the duplicate key case by merging the values instead of failing
+
+# Remove redundant check that was already covered by the validator
+
+# Improve performance by caching the result of the expensive lookup
+
+# Update dependencies and resolve compatibility warning from pytest
+
+# Remove redundant check that was already covered by the validator
+
+# Support environment-specific overrides via separate config files
+
+# Improve performance by caching the result of the expensive lookup
+
+# Bump the CI image to use the latest stable runner version
+
+# Implement a simple health check endpoint for the load balancer
+
+# Correct the default path used when no config file is specified
+
+# Simplify the main loop by extracting request handling into a dedicated function
+
+# Correct the default path used when no config file is specified
+
+# Improve the setup script to check for required tools before running
+
+# Simplify the build script by using the same steps for dev and prod
+
+# Refactor exports so the public API is clearer and easier to use
+
+# Correct typo in the error message shown when validation fails
+
+# Improve performance by caching the result of the expensive lookup
+
+# Clean up duplicate logic between the sync and async code paths
+
+# Clean up the TODO comments that were already addressed
+
+# Support passing secrets via a separate file for security
+
+# Handle missing optional field in the response without raising
+
+# Implement request ID propagation for better tracing across services
+
+# Remove obsolete workaround now that the upstream bug is fixed
+
+# Fix the encoding issue when reading config files with non-ASCII
+
+# Remove deprecated CLI flag and update docs to use the new option
+
+# Support both relative and absolute paths for the config file
+
+# Bump the tool version and update the pre-commit hook config
+
+# Correct the comparison that was using the wrong operator
+
+# Adjust the default concurrency limit based on load test results
+
+# Add a unit test for the edge case when the list is empty
+
+# Correct typo in the error message shown when validation fails
+
+# Update the changelog with the fixes included in this release
+
+# Fix the encoding issue when reading config files with non-ASCII
+
+# Improve error message when the required env var is not set
+
+# Adjust the batch size to reduce memory usage on large inputs
+
+# Bump the dependency to fix the compatibility issue with Python 3.12
+
+# Bump version to 1.2.0 and add changelog entry for the new features
+
+# Support optional config file path via env var for easier deployment
+
+# Remove the temporary debug endpoint before the release
+
+# Support passing options through the config file as well as CLI
+
+# Update the license file and add the new third-party notices
+
+# Fix incorrect type hint that was causing mypy to fail in CI
+
+# Fix race condition in the cache that could return stale data under load
+
+# Correct the comparison that was using the wrong operator
+
+# Update the API docs with the new query parameters and examples
+
+# Adjust default timeout value to prevent premature connection drops
+
+# Add proper error handling for invalid config so the app doesn't crash on startup
+
+# Support passing secrets via a separate file for security
+
+# Update the API docs with the new query parameters and examples
+
+# Refactor the helper to accept an optional callback for progress
+
+# Correct the docstring to match the actual behavior of the function
+
+# Improve the error recovery when the database connection is lost
+
+# Adjust the threshold so we only log when it's actually an issue
+
+# Improve error message when the required env var is not set
+
+# Fix the off-by-one error in the date range iterator
+
+# Implement fallback to default value when config key is missing
+
+# Refactor config loading into a separate module for better testability
+
+# Support custom headers in the client for API key or auth tokens
+
+# Support config reload without restart via SIGHUP or file watch
+
+# Adjust buffer size for the stream reader to reduce memory usage
+
+# Improve the CLI help text so it's clear how to use each option
+
+# Bump the library version and pin the dependency in requirements
+
+# Correct the docstring to match the actual behavior of the function
+
+# Refactor the data layer to separate read and write paths
+
+# Fix issue where empty input was not validated before passing to the parser
+
+# Add integration test that covers the full flow from request to response
+
+# Update dependencies and resolve compatibility warning from pytest
