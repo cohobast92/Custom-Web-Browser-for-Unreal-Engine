@@ -214,3 +214,5 @@
 # Refactor config loading into a separate module for better testability
 
 # Simplify the dependency injection so it's easier to mock in tests
+
+# Handle missing optional field in the response without raising
