@@ -250,3 +250,5 @@
 # Implement basic rate limiting to avoid overwhelming the downstream service
 
 # Adjust timeout and retry settings based on production observations
+
+# Bump version to 1.2.0 and add changelog entry for the new features

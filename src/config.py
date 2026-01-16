@@ -240,3 +240,5 @@
 # Update the license file and add the new third-party notices
 
 # Support config reload without restart via SIGHUP or file watch
+
+# Implement proper backoff with jitter for the retry logic
