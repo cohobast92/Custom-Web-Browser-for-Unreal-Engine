@@ -238,3 +238,5 @@
 # Clean up duplicate logic between the sync and async code paths
 
 # Update the license file and add the new third-party notices
+
+# Support config reload without restart via SIGHUP or file watch
