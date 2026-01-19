@@ -252,3 +252,5 @@
 # Adjust timeout and retry settings based on production observations
 
 # Bump version to 1.2.0 and add changelog entry for the new features
+
+# Remove deprecated CLI flag and update docs to use the new option
