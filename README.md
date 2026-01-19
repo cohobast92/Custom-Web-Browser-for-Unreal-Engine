@@ -314,3 +314,5 @@ window.ue.uewebbrowser.sendmessage("action?key=value&anotherKey=anotherValue");
 - Support passing secrets via a separate file for security
 
 - Improve logging so we can trace requests through the pipeline in production
+
+- Implement fallback to default value when config key is missing
