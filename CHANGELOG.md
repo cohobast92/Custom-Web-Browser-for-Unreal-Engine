@@ -318,3 +318,6 @@
 
 ## 2026-01-13
 - Remove the unused parameter that was left from an old refactor
+
+## 2026-01-19
+- Adjust the batch size to reduce memory usage on large inputs

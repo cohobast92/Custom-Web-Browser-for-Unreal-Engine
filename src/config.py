@@ -242,3 +242,5 @@
 # Support config reload without restart via SIGHUP or file watch
 
 # Implement proper backoff with jitter for the retry logic
+
+# Fix bug where the parser would hang on malformed input
