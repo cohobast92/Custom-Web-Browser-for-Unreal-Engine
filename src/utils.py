@@ -202,3 +202,5 @@
 # Add a small delay between retries to avoid thundering herd
 
 # Handle edge case when the response body is empty but status is 200
+
+# Refactor the main entry point to make it easier to test

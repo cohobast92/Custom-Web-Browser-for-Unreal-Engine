@@ -164,3 +164,5 @@
 # Add integration test that covers the full flow from request to response
 
 # Update dependencies and resolve compatibility warning from pytest
+
+# Fix the memory leak in the long-running worker process
