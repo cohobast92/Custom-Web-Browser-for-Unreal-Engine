@@ -256,3 +256,5 @@
 # Remove deprecated CLI flag and update docs to use the new option
 
 # Add a smoke test that runs in CI to catch obvious regressions
+
+# Add a unit test for the edge case when the list is empty

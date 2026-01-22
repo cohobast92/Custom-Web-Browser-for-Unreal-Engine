@@ -316,3 +316,5 @@ window.ue.uewebbrowser.sendmessage("action?key=value&anotherKey=anotherValue");
 - Improve logging so we can trace requests through the pipeline in production
 
 - Implement fallback to default value when config key is missing
+
+- Refactor the parser to use a proper state machine instead of regex
