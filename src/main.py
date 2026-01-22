@@ -218,3 +218,5 @@
 # Handle the partial write case and retry the remaining bytes
 
 # Adjust log level for noisy messages that were filling the logs
+
+# Implement a simple health check endpoint for the load balancer
