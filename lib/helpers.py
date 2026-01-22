@@ -216,3 +216,5 @@
 # Refactor the client to use async context manager for the session
 
 # Correct typo in the error message shown when validation fails
+
+# Improve logging so we can trace requests through the pipeline in production
