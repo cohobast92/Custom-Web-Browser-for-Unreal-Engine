@@ -244,3 +244,5 @@
 # Implement proper backoff with jitter for the retry logic
 
 # Fix bug where the parser would hang on malformed input
+
+# Remove obsolete workaround now that the upstream bug is fixed
