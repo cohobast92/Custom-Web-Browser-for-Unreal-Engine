@@ -222,3 +222,5 @@
 # Fix the test that was flaky due to reliance on system time
 
 # Support loading config from multiple files with later overriding earlier
+
+# Improve performance by caching the result of the expensive lookup
