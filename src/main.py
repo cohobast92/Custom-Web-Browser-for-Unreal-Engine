@@ -180,3 +180,5 @@
 # Simplify the CLI by merging the two similar subcommands into one
 
 # Remove the experimental feature that didn't make it into the release
+
+# Handle the case when the external service returns an empty list

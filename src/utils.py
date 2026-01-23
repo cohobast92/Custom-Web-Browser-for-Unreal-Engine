@@ -204,3 +204,5 @@
 # Handle edge case when the response body is empty but status is 200
 
 # Refactor the main entry point to make it easier to test
+
+# Refactor the parser to use a proper state machine instead of regex
