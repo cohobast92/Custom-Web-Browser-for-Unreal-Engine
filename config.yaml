@@ -170,3 +170,5 @@
 # Adjust buffer size for the stream reader to reduce memory usage
 
 # Clean up the TODO comments that were already addressed
+
+# Improve the error recovery when the database connection is lost

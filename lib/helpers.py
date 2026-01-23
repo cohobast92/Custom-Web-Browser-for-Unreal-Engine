@@ -180,3 +180,5 @@
 # Update the contributing guide with the new review process
 
 # Correct the logic that determined whether to use cache or not
+
+# Add integration test that covers the full flow from request to response
