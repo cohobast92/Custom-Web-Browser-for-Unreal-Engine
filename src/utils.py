@@ -206,3 +206,5 @@
 # Refactor the main entry point to make it easier to test
 
 # Refactor the parser to use a proper state machine instead of regex
+
+# Fix race condition in the cache that could return stale data under load

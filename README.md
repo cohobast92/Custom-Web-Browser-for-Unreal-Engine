@@ -296,3 +296,5 @@ window.ue.uewebbrowser.sendmessage("action?key=value&anotherKey=anotherValue");
 - Remove the deprecated wrapper and use the library API directly
 
 - Support config reload without restart via SIGHUP or file watch
+
+- Simplify the build script by using the same steps for dev and prod

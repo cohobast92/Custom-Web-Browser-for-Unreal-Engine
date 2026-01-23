@@ -267,3 +267,6 @@
 
 ## 2026-01-23
 - Implement fallback to default value when config key is missing
+
+## 2026-01-23
+- Remove the unused parameter that was left from an old refactor
