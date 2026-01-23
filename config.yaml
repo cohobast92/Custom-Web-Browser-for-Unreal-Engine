@@ -168,3 +168,5 @@
 # Fix the memory leak in the long-running worker process
 
 # Adjust buffer size for the stream reader to reduce memory usage
+
+# Clean up the TODO comments that were already addressed

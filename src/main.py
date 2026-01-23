@@ -182,3 +182,5 @@
 # Remove the experimental feature that didn't make it into the release
 
 # Handle the case when the external service returns an empty list
+
+# Add a note in the README about the breaking change in 2.0
