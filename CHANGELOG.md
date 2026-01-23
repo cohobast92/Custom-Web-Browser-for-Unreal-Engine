@@ -264,3 +264,6 @@
 
 ## 2026-02-25
 - Simplify the main loop by extracting request handling into a dedicated function
+
+## 2026-01-23
+- Implement fallback to default value when config key is missing
