@@ -220,3 +220,5 @@
 # Adjust log level for noisy messages that were filling the logs
 
 # Implement a simple health check endpoint for the load balancer
+
+# Add a comment explaining why we disable the linter on this line
