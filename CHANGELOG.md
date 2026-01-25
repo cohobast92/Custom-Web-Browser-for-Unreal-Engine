@@ -321,3 +321,6 @@
 
 ## 2026-01-19
 - Adjust the batch size to reduce memory usage on large inputs
+
+## 2026-01-25
+- Support optional config file path via env var for easier deployment
