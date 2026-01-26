@@ -210,3 +210,5 @@
 # Handle edge case when the response body is empty but status is 200
 
 # Refactor the helper to accept an optional callback for progress
+
+# Update documentation to reflect the new API and usage examples

@@ -214,3 +214,5 @@
 # Handle the case when the config file exists but is not readable
 
 # Bump the tool version and update the pre-commit hook config
+
+# Bump the tool version and update the pre-commit hook config
