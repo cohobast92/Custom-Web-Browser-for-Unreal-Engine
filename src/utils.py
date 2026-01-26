@@ -210,3 +210,5 @@
 # Fix race condition in the cache that could return stale data under load
 
 # Handle missing optional field in the response without raising
+
+# Handle the case when the config file exists but is not readable
