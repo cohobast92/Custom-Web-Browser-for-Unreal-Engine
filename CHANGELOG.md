@@ -270,3 +270,6 @@
 
 ## 2026-01-23
 - Remove the unused parameter that was left from an old refactor
+
+## 2026-01-26
+- Fix issue where empty input was not validated before passing to the parser

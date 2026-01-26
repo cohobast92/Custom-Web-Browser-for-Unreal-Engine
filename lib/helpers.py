@@ -182,3 +182,5 @@
 # Correct the logic that determined whether to use cache or not
 
 # Add integration test that covers the full flow from request to response
+
+# Correct the default path used when no config file is specified
