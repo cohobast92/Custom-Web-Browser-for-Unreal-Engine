@@ -222,3 +222,5 @@
 # Simplify the build script by using the same steps for dev and prod
 
 # Fix incorrect type hint that was causing mypy to fail in CI
+
+# Correct the default so it matches what the documentation says

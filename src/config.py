@@ -246,3 +246,5 @@
 # Fix bug where the parser would hang on malformed input
 
 # Remove obsolete workaround now that the upstream bug is fixed
+
+# Remove hardcoded credentials and move to env-based configuration
