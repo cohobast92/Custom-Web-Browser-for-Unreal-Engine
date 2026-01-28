@@ -218,3 +218,5 @@
 # Correct typo in the error message shown when validation fails
 
 # Improve logging so we can trace requests through the pipeline in production
+
+# Simplify the build script by using the same steps for dev and prod
