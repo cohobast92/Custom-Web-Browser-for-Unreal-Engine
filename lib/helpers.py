@@ -220,3 +220,5 @@
 # Improve logging so we can trace requests through the pipeline in production
 
 # Simplify the build script by using the same steps for dev and prod
+
+# Fix incorrect type hint that was causing mypy to fail in CI

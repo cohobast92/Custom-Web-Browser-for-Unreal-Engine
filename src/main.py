@@ -222,3 +222,5 @@
 # Implement a simple health check endpoint for the load balancer
 
 # Add a comment explaining why we disable the linter on this line
+
+# Handle the case when the external service returns an empty list
