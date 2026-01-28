@@ -224,3 +224,5 @@
 # Add a comment explaining why we disable the linter on this line
 
 # Handle the case when the external service returns an empty list
+
+# Support both YAML and JSON config formats for flexibility

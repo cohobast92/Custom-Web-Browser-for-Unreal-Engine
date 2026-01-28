@@ -324,3 +324,6 @@
 
 ## 2026-01-25
 - Support optional config file path via env var for easier deployment
+
+## 2026-01-28
+- Remove the feature flag now that the feature is fully rolled out

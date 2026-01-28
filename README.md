@@ -318,3 +318,5 @@ window.ue.uewebbrowser.sendmessage("action?key=value&anotherKey=anotherValue");
 - Implement fallback to default value when config key is missing
 
 - Refactor the parser to use a proper state machine instead of regex
+
+- Improve the default config so it works out of the box for dev
