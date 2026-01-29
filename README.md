@@ -298,3 +298,5 @@ window.ue.uewebbrowser.sendmessage("action?key=value&anotherKey=anotherValue");
 - Support config reload without restart via SIGHUP or file watch
 
 - Simplify the build script by using the same steps for dev and prod
+
+- Bump the CI image to use the latest stable runner version
