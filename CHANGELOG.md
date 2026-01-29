@@ -273,3 +273,6 @@
 
 ## 2026-01-26
 - Fix issue where empty input was not validated before passing to the parser
+
+## 2026-01-29
+- Handle edge case when the response body is empty but status is 200
