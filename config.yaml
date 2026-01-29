@@ -172,3 +172,5 @@
 # Clean up the TODO comments that were already addressed
 
 # Improve the error recovery when the database connection is lost
+
+# Implement a small in-memory cache for the config to avoid re-reading
