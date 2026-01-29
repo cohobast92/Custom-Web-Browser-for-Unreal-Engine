@@ -276,3 +276,6 @@
 
 ## 2026-01-29
 - Handle edge case when the response body is empty but status is 200
+
+## 2026-01-29
+- Fix incorrect type hint that was causing mypy to fail in CI
