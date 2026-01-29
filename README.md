@@ -300,3 +300,5 @@ window.ue.uewebbrowser.sendmessage("action?key=value&anotherKey=anotherValue");
 - Simplify the build script by using the same steps for dev and prod
 
 - Bump the CI image to use the latest stable runner version
+
+- Support custom headers in the client for API key or auth tokens

@@ -186,3 +186,5 @@
 # Add a note in the README about the breaking change in 2.0
 
 # Improve the default config so it works out of the box for dev
+
+# Add a unit test for the edge case when the list is empty
