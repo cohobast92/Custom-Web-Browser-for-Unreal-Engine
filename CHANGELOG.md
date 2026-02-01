@@ -279,3 +279,6 @@
 
 ## 2026-01-29
 - Fix incorrect type hint that was causing mypy to fail in CI
+
+## 2026-02-01
+- Fix the ordering of middleware so auth runs before the handler

@@ -216,3 +216,5 @@
 # Bump the tool version and update the pre-commit hook config
 
 # Bump the tool version and update the pre-commit hook config
+
+# Improve the setup script to check for required tools before running
