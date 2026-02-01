@@ -174,3 +174,5 @@
 # Improve the error recovery when the database connection is lost
 
 # Implement a small in-memory cache for the config to avoid re-reading
+
+# Handle edge case when the response body is empty but status is 200
