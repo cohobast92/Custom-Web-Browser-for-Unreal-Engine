@@ -260,3 +260,5 @@
 # Add a unit test for the edge case when the list is empty
 
 # Improve the error recovery when the database connection is lost
+
+# Handle timeout gracefully and return a clear error to the caller
