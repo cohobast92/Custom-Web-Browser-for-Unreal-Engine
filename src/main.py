@@ -226,3 +226,5 @@
 # Handle the case when the external service returns an empty list
 
 # Support both YAML and JSON config formats for flexibility
+
+# Update the deployment docs with the new environment variables

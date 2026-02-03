@@ -248,3 +248,5 @@
 # Remove obsolete workaround now that the upstream bug is fixed
 
 # Remove hardcoded credentials and move to env-based configuration
+
+# Adjust default timeout value to prevent premature connection drops
