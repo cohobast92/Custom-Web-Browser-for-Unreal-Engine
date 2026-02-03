@@ -264,3 +264,5 @@
 # Handle timeout gracefully and return a clear error to the caller
 
 # Support environment-specific overrides via separate config files
+
+# Handle the partial write case and retry the remaining bytes
