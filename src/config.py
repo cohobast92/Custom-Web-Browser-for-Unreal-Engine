@@ -250,3 +250,5 @@
 # Remove hardcoded credentials and move to env-based configuration
 
 # Adjust default timeout value to prevent premature connection drops
+
+# Clean up duplicate logic between the sync and async code paths

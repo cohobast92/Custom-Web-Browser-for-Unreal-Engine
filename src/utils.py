@@ -266,3 +266,5 @@
 # Support environment-specific overrides via separate config files
 
 # Handle the partial write case and retry the remaining bytes
+
+# Refactor exports so the public API is clearer and easier to use
