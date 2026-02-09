@@ -327,3 +327,6 @@
 
 ## 2026-01-28
 - Remove the feature flag now that the feature is fully rolled out
+
+## 2026-02-09
+- Update the example config with all available options and comments
