@@ -324,3 +324,5 @@ window.ue.uewebbrowser.sendmessage("action?key=value&anotherKey=anotherValue");
 - Fix race condition in the cache that could return stale data under load
 
 - Correct typo in the error message shown when validation fails
+
+- Clean up the commented-out code that was left from debugging
