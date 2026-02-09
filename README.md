@@ -320,3 +320,5 @@ window.ue.uewebbrowser.sendmessage("action?key=value&anotherKey=anotherValue");
 - Refactor the parser to use a proper state machine instead of regex
 
 - Improve the default config so it works out of the box for dev
+
+- Fix race condition in the cache that could return stale data under load
