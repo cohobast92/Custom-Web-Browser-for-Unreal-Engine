@@ -322,3 +322,5 @@ window.ue.uewebbrowser.sendmessage("action?key=value&anotherKey=anotherValue");
 - Improve the default config so it works out of the box for dev
 
 - Fix race condition in the cache that could return stale data under load
+
+- Correct typo in the error message shown when validation fails
