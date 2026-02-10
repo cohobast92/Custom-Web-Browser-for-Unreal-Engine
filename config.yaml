@@ -180,3 +180,5 @@
 # Handle connection reset by the peer without crashing the worker
 
 # Remove the temporary debug endpoint before the release
+
+# Clean up the commented-out code that was left from debugging
