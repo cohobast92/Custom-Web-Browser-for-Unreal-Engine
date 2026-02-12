@@ -252,3 +252,5 @@
 # Adjust default timeout value to prevent premature connection drops
 
 # Clean up duplicate logic between the sync and async code paths
+
+# Improve the CLI help text so it's clear how to use each option

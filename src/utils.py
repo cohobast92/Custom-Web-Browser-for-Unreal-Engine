@@ -272,3 +272,5 @@
 # Fix the off-by-one error in the date range iterator
 
 # Refactor exports so the public API is clearer and easier to use
+
+# Update README with installation steps and environment variable documentation
