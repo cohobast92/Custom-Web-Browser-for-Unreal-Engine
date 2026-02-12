@@ -330,3 +330,6 @@
 
 ## 2026-02-09
 - Update the example config with all available options and comments
+
+## 2026-02-12
+- Fix the memory leak in the long-running worker process
