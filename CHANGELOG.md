@@ -333,3 +333,6 @@
 
 ## 2026-02-12
 - Fix the memory leak in the long-running worker process
+
+## 2026-02-12
+- Support optional config file path via env var for easier deployment

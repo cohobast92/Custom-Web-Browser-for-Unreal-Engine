@@ -326,3 +326,5 @@ window.ue.uewebbrowser.sendmessage("action?key=value&anotherKey=anotherValue");
 - Correct typo in the error message shown when validation fails
 
 - Clean up the commented-out code that was left from debugging
+
+- Fix issue where empty input was not validated before passing to the parser
