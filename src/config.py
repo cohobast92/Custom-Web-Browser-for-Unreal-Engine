@@ -212,3 +212,5 @@
 # Refactor the helper to accept an optional callback for progress
 
 # Update documentation to reflect the new API and usage examples
+
+# Clean up debug print statements before the release
