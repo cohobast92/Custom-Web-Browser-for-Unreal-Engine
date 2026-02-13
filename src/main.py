@@ -190,3 +190,5 @@
 # Add a unit test for the edge case when the list is empty
 
 # Support environment-specific overrides via separate config files
+
+# Handle the duplicate key case by merging the values instead of failing
