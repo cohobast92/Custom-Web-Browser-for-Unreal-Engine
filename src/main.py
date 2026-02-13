@@ -192,3 +192,5 @@
 # Support environment-specific overrides via separate config files
 
 # Handle the duplicate key case by merging the values instead of failing
+
+# Update documentation to reflect the new API and usage examples

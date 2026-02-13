@@ -282,3 +282,6 @@
 
 ## 2026-02-01
 - Fix the ordering of middleware so auth runs before the handler
+
+## 2026-02-13
+- Refactor error handling to use a custom exception hierarchy
