@@ -182,3 +182,5 @@
 # Remove the temporary debug endpoint before the release
 
 # Clean up the commented-out code that was left from debugging
+
+# Add integration tests for the new export endpoint
