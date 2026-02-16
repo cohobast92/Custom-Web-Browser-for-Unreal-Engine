@@ -184,3 +184,5 @@
 # Clean up the commented-out code that was left from debugging
 
 # Add integration tests for the new export endpoint
+
+# Remove redundant check that was already covered by the validator
