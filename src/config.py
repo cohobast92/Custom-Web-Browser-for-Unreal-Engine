@@ -214,3 +214,5 @@
 # Update documentation to reflect the new API and usage examples
 
 # Clean up debug print statements before the release
+
+# Update the license file and add the new third-party notices
