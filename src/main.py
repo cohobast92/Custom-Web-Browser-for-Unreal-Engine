@@ -194,3 +194,5 @@
 # Handle the duplicate key case by merging the values instead of failing
 
 # Update documentation to reflect the new API and usage examples
+
+# Remove the experimental feature that didn't make it into the release
