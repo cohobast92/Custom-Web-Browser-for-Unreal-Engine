@@ -218,3 +218,5 @@
 # Update the license file and add the new third-party notices
 
 # Refactor the main entry point to make it easier to test
+
+# Implement proper backoff with jitter for the retry logic

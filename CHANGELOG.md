@@ -285,3 +285,6 @@
 
 ## 2026-02-13
 - Refactor error handling to use a custom exception hierarchy
+
+## 2026-02-19
+- Refactor the helper to accept an optional callback for progress
