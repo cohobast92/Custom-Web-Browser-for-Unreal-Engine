@@ -196,3 +196,5 @@
 # Update documentation to reflect the new API and usage examples
 
 # Remove the experimental feature that didn't make it into the release
+
+# Bump the Docker base image to get the latest security patches
