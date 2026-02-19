@@ -302,3 +302,5 @@ window.ue.uewebbrowser.sendmessage("action?key=value&anotherKey=anotherValue");
 - Bump the CI image to use the latest stable runner version
 
 - Support custom headers in the client for API key or auth tokens
+
+- Bump the tool version and update the pre-commit hook config
