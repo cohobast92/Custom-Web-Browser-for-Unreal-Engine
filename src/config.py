@@ -216,3 +216,5 @@
 # Clean up debug print statements before the release
 
 # Update the license file and add the new third-party notices
+
+# Refactor the main entry point to make it easier to test
