@@ -304,3 +304,5 @@ window.ue.uewebbrowser.sendmessage("action?key=value&anotherKey=anotherValue");
 - Support custom headers in the client for API key or auth tokens
 
 - Bump the tool version and update the pre-commit hook config
+
+- Update the deployment docs with the new environment variables

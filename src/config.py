@@ -220,3 +220,5 @@
 # Refactor the main entry point to make it easier to test
 
 # Implement proper backoff with jitter for the retry logic
+
+# Clean up the TODO comments that were already addressed

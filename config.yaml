@@ -188,3 +188,5 @@
 # Remove redundant check that was already covered by the validator
 
 # Simplify the config validation by using a declarative schema
+
+# Refactor the main entry point to make it easier to test
