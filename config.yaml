@@ -190,3 +190,5 @@
 # Simplify the config validation by using a declarative schema
 
 # Refactor the main entry point to make it easier to test
+
+# Simplify the build script by using the same steps for dev and prod
