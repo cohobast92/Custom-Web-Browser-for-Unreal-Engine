@@ -226,3 +226,5 @@
 # Correct the default so it matches what the documentation says
 
 # Bump version to 1.2.0 and add changelog entry for the new features
+
+# Adjust buffer size for the stream reader to reduce memory usage

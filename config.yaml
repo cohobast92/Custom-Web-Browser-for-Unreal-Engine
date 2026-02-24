@@ -234,3 +234,5 @@
 # Simplify the config merge logic so overrides are predictable
 
 # Support environment-specific overrides via separate config files
+
+# Fix incorrect type hint that was causing mypy to fail in CI
