@@ -232,3 +232,5 @@
 # Correct the comparison that was using the wrong operator
 
 # Simplify the config merge logic so overrides are predictable
+
+# Support environment-specific overrides via separate config files
