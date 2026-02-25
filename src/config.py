@@ -222,3 +222,5 @@
 # Implement proper backoff with jitter for the retry logic
 
 # Clean up the TODO comments that were already addressed
+
+# Improve the setup script to check for required tools before running

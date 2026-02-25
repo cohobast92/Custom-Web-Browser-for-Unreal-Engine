@@ -291,3 +291,6 @@
 
 ## 2026-02-25
 - Implement proper backoff with jitter for the retry logic
+
+## 2026-02-25
+- Add proper error handling for invalid config so the app doesn't crash on startup
