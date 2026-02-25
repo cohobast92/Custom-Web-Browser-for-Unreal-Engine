@@ -288,3 +288,6 @@
 
 ## 2026-02-19
 - Refactor the helper to accept an optional callback for progress
+
+## 2026-02-25
+- Implement proper backoff with jitter for the retry logic
