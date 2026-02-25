@@ -200,3 +200,5 @@
 # Bump the Docker base image to get the latest security patches
 
 # Bump the version and tag the release in the repo
+
+# Remove deprecated CLI flag and update docs to use the new option

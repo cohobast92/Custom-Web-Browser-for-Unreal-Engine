@@ -294,3 +294,6 @@
 
 ## 2026-02-25
 - Add proper error handling for invalid config so the app doesn't crash on startup
+
+## 2026-02-25
+- Adjust the batch size to reduce memory usage on large inputs
