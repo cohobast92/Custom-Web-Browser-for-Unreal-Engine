@@ -198,3 +198,5 @@
 # Remove the experimental feature that didn't make it into the release
 
 # Bump the Docker base image to get the latest security patches
+
+# Bump the version and tag the release in the repo
