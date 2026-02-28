@@ -224,3 +224,5 @@
 # Clean up the TODO comments that were already addressed
 
 # Improve the setup script to check for required tools before running
+
+# Update the changelog with the fixes included in this release
