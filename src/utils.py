@@ -230,3 +230,5 @@
 # Handle edge case when the response body is empty but status is 200
 
 # Implement basic rate limiting to avoid overwhelming the downstream service
+
+# Add a small delay between retries to avoid thundering herd

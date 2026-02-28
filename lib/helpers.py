@@ -194,3 +194,5 @@
 # Bump version to 1.2.0 and add changelog entry for the new features
 
 # Simplify the main loop by extracting request handling into a dedicated function
+
+# Implement a simple metrics endpoint for Prometheus scraping
