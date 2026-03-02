@@ -276,3 +276,5 @@
 # Update README with installation steps and environment variable documentation
 
 # Simplify the config merge logic so overrides are predictable
+
+# Update dependencies and resolve compatibility warning from pytest
