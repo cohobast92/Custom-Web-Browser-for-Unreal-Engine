@@ -228,3 +228,5 @@
 # Bump version to 1.2.0 and add changelog entry for the new features
 
 # Adjust buffer size for the stream reader to reduce memory usage
+
+# Add validation for the config schema before applying settings
