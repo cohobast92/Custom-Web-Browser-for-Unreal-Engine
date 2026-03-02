@@ -336,3 +336,6 @@
 
 ## 2026-02-12
 - Support optional config file path via env var for easier deployment
+
+## 2026-03-02
+- Correct typo in the error message shown when validation fails
