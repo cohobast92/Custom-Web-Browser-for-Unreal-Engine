@@ -236,3 +236,5 @@
 # Support environment-specific overrides via separate config files
 
 # Fix incorrect type hint that was causing mypy to fail in CI
+
+# Implement a simple metrics endpoint for Prometheus scraping

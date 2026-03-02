@@ -274,3 +274,5 @@
 # Refactor exports so the public API is clearer and easier to use
 
 # Update README with installation steps and environment variable documentation
+
+# Simplify the config merge logic so overrides are predictable
