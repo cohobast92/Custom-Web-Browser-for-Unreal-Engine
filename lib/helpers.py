@@ -198,3 +198,5 @@
 # Implement a simple metrics endpoint for Prometheus scraping
 
 # Handle the partial write case and retry the remaining bytes
+
+# Simplify the config merge logic so overrides are predictable
