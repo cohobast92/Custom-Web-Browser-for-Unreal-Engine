@@ -303,3 +303,6 @@
 
 ## 2026-03-03
 - Adjust the threshold so we only log when it's actually an issue
+
+## 2026-03-03
+- Refactor config loading into a separate module for better testability

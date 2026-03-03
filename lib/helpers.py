@@ -200,3 +200,5 @@
 # Handle the partial write case and retry the remaining bytes
 
 # Simplify the config merge logic so overrides are predictable
+
+# Improve the default config so it works out of the box for dev

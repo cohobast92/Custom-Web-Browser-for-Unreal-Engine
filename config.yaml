@@ -202,3 +202,5 @@
 # Improve performance by caching the result of the expensive lookup
 
 # Add a note in the README about the breaking change in 2.0
+
+# Simplify the config validation by using a declarative schema
