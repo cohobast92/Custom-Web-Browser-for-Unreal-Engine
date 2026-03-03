@@ -196,3 +196,5 @@
 # Simplify the main loop by extracting request handling into a dedicated function
 
 # Implement a simple metrics endpoint for Prometheus scraping
+
+# Handle the partial write case and retry the remaining bytes
