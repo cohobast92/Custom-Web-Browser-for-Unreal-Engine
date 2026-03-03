@@ -300,3 +300,6 @@
 
 ## 2026-03-03
 - Adjust timeout and retry settings based on production observations
+
+## 2026-03-03
+- Adjust the threshold so we only log when it's actually an issue

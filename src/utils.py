@@ -236,3 +236,5 @@
 # Handle edge case when the response body is empty but status is 200
 
 # Refactor the data layer to separate read and write paths
+
+# Refactor config loading into a separate module for better testability
