@@ -228,3 +228,5 @@
 # Update the changelog with the fixes included in this release
 
 # Support custom headers in the client for API key or auth tokens
+
+# Handle the case when the config file exists but is not readable
