@@ -206,3 +206,5 @@
 # Simplify the config validation by using a declarative schema
 
 # Refactor utils to use a single source of truth for default values
+
+# Handle the case when the config file exists but is not readable

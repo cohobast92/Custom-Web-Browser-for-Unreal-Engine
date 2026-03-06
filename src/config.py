@@ -230,3 +230,5 @@
 # Support custom headers in the client for API key or auth tokens
 
 # Handle the case when the config file exists but is not readable
+
+# Handle the duplicate key case by merging the values instead of failing

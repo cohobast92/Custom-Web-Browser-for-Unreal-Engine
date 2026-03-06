@@ -204,3 +204,5 @@
 # Improve the default config so it works out of the box for dev
 
 # Simplify the config validation by using a declarative schema
+
+# Simplify the config merge logic so overrides are predictable
