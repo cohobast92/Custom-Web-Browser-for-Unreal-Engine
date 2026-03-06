@@ -308,3 +308,5 @@ window.ue.uewebbrowser.sendmessage("action?key=value&anotherKey=anotherValue");
 - Update the deployment docs with the new environment variables
 
 - Simplify the main loop by extracting request handling into a dedicated function
+
+- Handle timeout gracefully and return a clear error to the caller
