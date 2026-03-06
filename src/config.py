@@ -226,3 +226,5 @@
 # Improve the setup script to check for required tools before running
 
 # Update the changelog with the fixes included in this release
+
+# Support custom headers in the client for API key or auth tokens
