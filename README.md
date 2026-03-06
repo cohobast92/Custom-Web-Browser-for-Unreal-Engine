@@ -306,3 +306,5 @@ window.ue.uewebbrowser.sendmessage("action?key=value&anotherKey=anotherValue");
 - Bump the tool version and update the pre-commit hook config
 
 - Update the deployment docs with the new environment variables
+
+- Simplify the main loop by extracting request handling into a dedicated function
