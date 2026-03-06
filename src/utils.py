@@ -238,3 +238,5 @@
 # Refactor the data layer to separate read and write paths
 
 # Refactor config loading into a separate module for better testability
+
+# Implement a simple health check endpoint for the load balancer
