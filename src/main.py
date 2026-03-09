@@ -204,3 +204,5 @@
 # Remove deprecated CLI flag and update docs to use the new option
 
 # Support custom headers in the client for API key or auth tokens
+
+# Implement retry logic for the API client when the remote returns 5xx

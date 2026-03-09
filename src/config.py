@@ -232,3 +232,5 @@
 # Handle the case when the config file exists but is not readable
 
 # Handle the duplicate key case by merging the values instead of failing
+
+# Bump version to 1.2.0 and add changelog entry for the new features

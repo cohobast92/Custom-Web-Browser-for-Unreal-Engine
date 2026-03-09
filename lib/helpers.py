@@ -206,3 +206,5 @@
 # Simplify the config validation by using a declarative schema
 
 # Simplify the config merge logic so overrides are predictable
+
+# Improve the CLI help text so it's clear how to use each option
