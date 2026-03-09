@@ -240,3 +240,5 @@
 # Refactor config loading into a separate module for better testability
 
 # Implement a simple health check endpoint for the load balancer
+
+# Adjust log level for noisy messages that were filling the logs
