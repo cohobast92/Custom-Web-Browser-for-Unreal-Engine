@@ -208,3 +208,5 @@
 # Simplify the config merge logic so overrides are predictable
 
 # Improve the CLI help text so it's clear how to use each option
+
+# Refactor the parser to use a proper state machine instead of regex
