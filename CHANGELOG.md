@@ -306,3 +306,6 @@
 
 ## 2026-03-03
 - Refactor config loading into a separate module for better testability
+
+## 2026-03-09
+- Clean up the deprecated alias and point callers to the new name
