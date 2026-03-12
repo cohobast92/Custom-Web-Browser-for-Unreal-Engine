@@ -244,3 +244,5 @@
 # Adjust log level for noisy messages that were filling the logs
 
 # Clean up leftover code from the previous implementation
+
+# Add a unit test for the edge case when the list is empty

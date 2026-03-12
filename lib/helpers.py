@@ -210,3 +210,5 @@
 # Improve the CLI help text so it's clear how to use each option
 
 # Refactor the parser to use a proper state machine instead of regex
+
+# Bump dependency to get the security fix for the reported CVE
