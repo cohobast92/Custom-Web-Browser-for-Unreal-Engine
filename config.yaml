@@ -208,3 +208,5 @@
 # Refactor utils to use a single source of truth for default values
 
 # Handle the case when the config file exists but is not readable
+
+# Implement retry logic for the API client when the remote returns 5xx

@@ -210,3 +210,5 @@
 # Implement basic rate limiting to avoid overwhelming the downstream service
 
 # Correct the docstring to match the actual behavior of the function
+
+# Adjust the threshold so we only log when it's actually an issue
