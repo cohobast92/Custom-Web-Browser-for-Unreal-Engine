@@ -309,3 +309,6 @@
 
 ## 2026-03-09
 - Clean up the deprecated alias and point callers to the new name
+
+## 2026-03-12
+- Update the API docs with the new query parameters and examples

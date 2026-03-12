@@ -310,3 +310,5 @@ window.ue.uewebbrowser.sendmessage("action?key=value&anotherKey=anotherValue");
 - Simplify the main loop by extracting request handling into a dedicated function
 
 - Handle timeout gracefully and return a clear error to the caller
+
+- Support passing secrets via a separate file for security

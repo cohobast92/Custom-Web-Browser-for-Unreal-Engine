@@ -208,3 +208,5 @@
 # Implement retry logic for the API client when the remote returns 5xx
 
 # Implement basic rate limiting to avoid overwhelming the downstream service
+
+# Correct the docstring to match the actual behavior of the function
