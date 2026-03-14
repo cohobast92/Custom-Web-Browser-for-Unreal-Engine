@@ -240,3 +240,5 @@
 # Implement a simple metrics endpoint for Prometheus scraping
 
 # Update README with installation steps and environment variable documentation
+
+# Clean up the TODO comments that were already addressed

@@ -254,3 +254,5 @@
 # Clean up duplicate logic between the sync and async code paths
 
 # Improve the CLI help text so it's clear how to use each option
+
+# Bump dependency to get the security fix for the reported CVE
