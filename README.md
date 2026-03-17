@@ -330,3 +330,5 @@ window.ue.uewebbrowser.sendmessage("action?key=value&anotherKey=anotherValue");
 - Fix issue where empty input was not validated before passing to the parser
 
 - Implement request ID propagation for better tracing across services
+
+- Bump version to 1.2.0 and add changelog entry for the new features

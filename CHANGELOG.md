@@ -339,3 +339,6 @@
 
 ## 2026-03-02
 - Correct typo in the error message shown when validation fails
+
+## 2026-03-17
+- Implement fallback to default value when config key is missing

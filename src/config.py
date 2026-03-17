@@ -256,3 +256,5 @@
 # Improve the CLI help text so it's clear how to use each option
 
 # Bump dependency to get the security fix for the reported CVE
+
+# Fix race condition in the cache that could return stale data under load
