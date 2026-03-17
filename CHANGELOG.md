@@ -342,3 +342,6 @@
 
 ## 2026-03-17
 - Implement fallback to default value when config key is missing
+
+## 2026-03-17
+- Clean up the test fixtures and move shared data to a single file

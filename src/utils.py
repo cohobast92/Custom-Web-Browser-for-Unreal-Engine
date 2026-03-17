@@ -278,3 +278,5 @@
 # Simplify the config merge logic so overrides are predictable
 
 # Update dependencies and resolve compatibility warning from pytest
+
+# Adjust log level for noisy messages that were filling the logs
