@@ -332,3 +332,5 @@ window.ue.uewebbrowser.sendmessage("action?key=value&anotherKey=anotherValue");
 - Implement request ID propagation for better tracing across services
 
 - Bump version to 1.2.0 and add changelog entry for the new features
+
+- Update documentation to reflect the new API and usage examples

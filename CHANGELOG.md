@@ -345,3 +345,6 @@
 
 ## 2026-03-17
 - Clean up the test fixtures and move shared data to a single file
+
+## 2026-03-17
+- Correct the default value for the feature flag in production
