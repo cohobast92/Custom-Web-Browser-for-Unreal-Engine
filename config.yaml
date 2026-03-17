@@ -242,3 +242,5 @@
 # Update README with installation steps and environment variable documentation
 
 # Clean up the TODO comments that were already addressed
+
+# Handle the duplicate key case by merging the values instead of failing

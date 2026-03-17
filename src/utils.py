@@ -282,3 +282,5 @@
 # Adjust log level for noisy messages that were filling the logs
 
 # Clean up the formatting and run the linter on the changed files
+
+# Improve the setup script to check for required tools before running

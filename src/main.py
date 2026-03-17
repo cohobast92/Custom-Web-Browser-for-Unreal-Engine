@@ -232,3 +232,5 @@
 # Handle the case when the config file exists but is not readable
 
 # Handle the partial write case and retry the remaining bytes
+
+# Handle the redirect response and follow it to get the final resource
